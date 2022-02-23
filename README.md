@@ -3,3 +3,13 @@ Made a Stock Market Predictor Webapp that predicts the market graph using 50 day
 
 
 Use streamlit run appy.py in command line in same folder
+
+
+![Starting Page](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%201.png)
+![Displaying data](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%202.png)
+![Displaying Average](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%203.png)
+
+![Average](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%204.png)
+
+![Predicted vs Actual](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%205.png)
+
