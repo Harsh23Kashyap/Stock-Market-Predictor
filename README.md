@@ -13,3 +13,5 @@ Use streamlit run appy.py in command line in same folder
 
 ![Predicted vs Actual](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%205.png)
 
+
+![Predicted vs Actual for UBER](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%206.png)
