@@ -3,7 +3,18 @@ Made a Stock Market Predictor Webapp that predicts the market graph using 50 day
 
 [View the website here]( https://huggingface.co/spaces/Harsh23Kashyap/StockMarketPredictor)
 
-Use streamlit run appy.py in command line in same folder
+
+## Installation:
+* Simply run the command ***pip install -r requirements.txt*** to install the dependencies.
+
+## Usage:
+1. Clone this repository and install the dependencies as mentioned above.
+2. Run the command: 
+```
+streamlit run app.py
+```
+3. Navigate to localhost in your web-browser.
+
 
 
 ![Starting Page](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%201.png)
