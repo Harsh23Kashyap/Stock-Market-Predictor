@@ -16,14 +16,8 @@ streamlit run app.py
 3. Navigate to localhost in your web-browser.
 
 
-
-![Starting Page](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%201.png)
-![Displaying data](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%202.png)
-![Displaying Average](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%203.png)
-
-![Average](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%204.png)
-
-![Predicted vs Actual](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%205.png)
+Demo Video: 
 
 
-![Predicted vs Actual for UBER](https://github.com/Harsh23Kashyap/Stock-Market-Predictor/blob/main/stocks%206.png)
+https://user-images.githubusercontent.com/55448981/206937615-05147443-fae3-4aa7-a7c1-64f6663cf028.mp4
+
