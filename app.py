@@ -99,8 +99,10 @@ except:
 if val==True:
     date=df.index
 
-    #Checks if which parameters in hsc_s which is named as branch in sidebar is checked or not and display results accordingly
-    
+    recent = df['Close']
+    st.header("Latest Price")
+    st.header(recent.iloc[0].round(2))
+    st.markdown("""---""")    
 
     left_column, right_column = st.columns(2) #Columns divided into two parts
     with left_column:
@@ -230,4 +232,7 @@ if val==True:
     plt.legend()
     st.pyplot(fig)
 
-    st.markdown("""---""")
+    
+    
+
+st.markdown("<br><hr><center>Made with ❤️ by <a href='https://www.linkedin.com/in/harsh-kashyap/'><strong>Harsh Kashyap</strong></a></center><hr>", unsafe_allow_html=True)
