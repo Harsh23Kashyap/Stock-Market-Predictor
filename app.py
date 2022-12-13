@@ -84,7 +84,7 @@ with st.sidebar:
 
 
 st.subheader("Enter Stock Ticker")
-user_input=st.text_input('','AAPL')
+user_input=st.text_input('','HDB')
 
 val=True
 try:
