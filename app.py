@@ -10,7 +10,7 @@ from keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 
 st.set_page_config(
-    page_title=" Stonks Trends Prediction", #The page title, shown in the browser tab.(should be Placement Details)
+    page_title=" Stocks Market Predictor", #The page title, shown in the browser tab.(should be Placement Details)
     initial_sidebar_state="auto", #The way sidebar should start out. Auto shows it in desktop.
     page_icon=":computer:", #The page favicon. Use the computer emoji
     layout="wide", #The way page content should be laid out. "wide" uses the entire screen.
