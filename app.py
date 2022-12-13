@@ -84,7 +84,7 @@ with st.sidebar:
 
 
 st.subheader("Enter Stock Ticker")
-user_input=st.text_input('','HDB')
+user_input=st.text_input('','HDFCBANK.BO')
 
 val=True
 try:
@@ -99,10 +99,10 @@ except:
 if val==True:
     date=df.index
 
-    recent = df['Close']
-    st.header("Latest Price")
-    st.header(recent.iloc[0].round(2))
-    st.markdown("""---""")    
+    st.header("Recent Price")
+    curr = data.DataReader(user_input,'yahoo',current)['Close']
+    st.header(curr.iloc[0].round(2))
+    st.markdown("""---""")   
 
     left_column, right_column = st.columns(2) #Columns divided into two parts
     with left_column:
