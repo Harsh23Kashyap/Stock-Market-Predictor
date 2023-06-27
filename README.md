@@ -14,6 +14,7 @@ requests
 streamlit_lottie
 keras.models
 tensorflow
+
 [View the website here]( https://huggingface.co/spaces/Harsh23Kashyap/StockMarketPredictor)
 
 
